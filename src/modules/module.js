@@ -1,0 +1,1 @@
+export const text = 'Detta är en text';
